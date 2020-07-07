@@ -1,1 +1,1 @@
-# Speed-Type-Game
+# Speed typing game built with JavaScript 
